@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Add a dev branch.
 Git FF.
 Git ff.
+Git another ff.
