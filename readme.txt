@@ -5,4 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Add a dev branch.
 Git another ff.
-master line 8.
+master line 8. conlict fixed.
+
