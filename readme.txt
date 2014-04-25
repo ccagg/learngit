@@ -6,4 +6,5 @@ Creating a new branch is quick and simple.
 Add a dev branch.
 Git another ff.
 master line 8. conlict fixed.
-
+add line eight.
+Add line nine.
