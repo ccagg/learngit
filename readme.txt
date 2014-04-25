@@ -1,14 +1,12 @@
-Git is a distributed version control system.Master!
-Git is free software distributed under the GPL.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.Dev.
 Git has mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
 Add a dev branch.
 Git another ff.
-master line 8. conlict fixed.
 add line eight.
 Add line nine.
 Add line ten.
-Add line 11.
 Add line eleven.
-Master King.
+Dev Queen.
