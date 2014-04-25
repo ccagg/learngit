@@ -9,8 +9,6 @@ master line 8. conlict fixed.
 add line eight.
 Add line nine.
 Add line ten.
-<<<<<<< HEAD
 Add line 11.
-=======
 Add line eleven.
->>>>>>> dev
+Master King.
